@@ -1,2 +1,3 @@
 # Machine_Learning
-Simple color compressing algorithm using KMeans
+1.Simple color compressing algorithm using KMeans \n
+2.Melbourne Housing price dataset analysis and linear regression model
